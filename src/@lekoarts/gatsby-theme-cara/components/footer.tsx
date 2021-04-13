@@ -20,7 +20,7 @@ const Footer = () => {
       >
         {isDark ? `Light` : `Dark`}
       </button>
-      &copy; 2021 Shreyaan Vashishtha. All rights reserved.
+      Copyright &copy; 2021 Shreyaan Vashishtha. All rights reserved.
     </ThemeFooter>
   )
 }
